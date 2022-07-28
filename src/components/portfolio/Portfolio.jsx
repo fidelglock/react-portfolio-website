@@ -21,7 +21,7 @@ const data = [
   {
     id: 2,
     image: IMG2,
-    title: 'Mohabbatein',
+    title: 'Hera Pheri',
     imdb: 'https://www.imdb.com/title/tt0213890/',
     demo: 'https://www.youtube.com/watch?v=WVjutHfxtDo'
   },
