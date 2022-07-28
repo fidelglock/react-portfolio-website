@@ -26,8 +26,8 @@
     color: var(--color-light);
     font-weight: 300;
     display: block;
-    width: 80%;
-    margin: 0.8rem auto 0;
+    width: 60%;
+    margin: 0.8rem auto 2rem;
 }
 
 .swiper-pagination-clickable .swiper-pagination-bullet {
