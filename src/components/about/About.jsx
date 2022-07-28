@@ -1,10 +1,11 @@
 import React from 'react'
 import './about.css'
-import ME from '../../assets/saurav-2.jpg'
+import ME from '../../assets/keanu.webp'
 import {FaAward} from 'react-icons/fa'
 import {BsCalendarWeek} from 'react-icons/bs'
 import {BiLocationPlus} from 'react-icons/bi'
 import {SiBmcsoftware} from 'react-icons/si'
+import {GiPistolGun} from 'react-icons/gi'
 
 const About = () => {
   return (
@@ -20,25 +21,25 @@ const About = () => {
         <div className="about__content">
           <div className="about__cards">
             <article className='about__card'>
-              <SiBmcsoftware className='about__icon'/>
+              <GiPistolGun className='about__icon'/>
               <h5>Work</h5>
-              <small>Software Engineer</small>
+              <small>Mercenary</small>
             </article>
 
             <article className='about__card'>
               <BsCalendarWeek className='about__icon'/>
               <h5>Birthday</h5>
-              <small>October 28</small>
+              <small>January 1</small>
             </article>
 
             <article className='about__card'>
               <BiLocationPlus className='about__icon'/>
               <h5>Place</h5>
-              <small>Araria, Bihar</small>
+              <small>Corner, Junkyard</small>
             </article>
           </div>
           <p>
-          I travel far and near only to experience new cultures and environments. I eat dal-chawal, roti-sabji and I cannot resist fuchka pani-puri and other street foods.
+          I live in a dystopian world in which the society exists on the remnants of world that destroy ed itself while competing with each other to prove who had the power to annihilate the society and getaway with it.
           </p>
           <a href='#contact' className='btn btn-primary'>Let's Talk</a>
         </div>

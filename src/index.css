@@ -11,10 +11,10 @@
 }
 
 :root {
-    --color-bg: #1f1f38;
-    --color-bg-variant: #2c2c6c;
-    --color-primary: #4db5ff;
-    --color-primary-variant: rgba(77,181,255,0.4);
+    --color-bg: #27233d;
+    --color-bg-variant: #3134ffb4;
+    --color-primary: #7c9bff;
+    --color-primary-variant: rgb(197, 82, 201);
     --color-white: #fff;
     --color-light: rgba(255,255,255,0.6);
 
@@ -39,7 +39,7 @@ body {
     background: var(--color-bg);
     color: var(--color-white);
     line-height: 1.7;
-    background-image: url(../src/assets/bg-tex.jpg);
+    background-image: url(../src/assets/cyber.jpg);
 }
 
 /* ----------- general styles ------------- */

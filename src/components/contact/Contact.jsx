@@ -26,13 +26,13 @@ const Contact = () => {
   return (
     <section id='contact'>
       <h5>Get in touch</h5>
-      <h2>Contact me</h2>
+      <h2 className='h2__text'>Contact me</h2>
       <div className="container contact__container">
         <div className="contact__options">
           <article className="contact__option">
             <MdAttachEmail className='contact__option-icon'/>
             <h4>Email</h4>
-            <h5>sourav@sourav.com</h5>
+            <h5>abc@abc.com</h5>
             <a href="mailto:glockman1326@gmail.com" target="_blank">Send a message</a>
           </article>
           <article className="contact__option">
@@ -45,7 +45,7 @@ const Contact = () => {
             <BsWhatsapp className='contact__option-icon'/>
             <h4>Whatsapp</h4>
             <h5>Inbox</h5>
-            <a href="https://api.whatsapp.com/send?phone=9851853694" target="_blank">Send a message</a>
+            <a href="https://api.whatsapp.com/send?phone=9775878037" target="_blank">Send a message</a>
           </article>
         </div>
 

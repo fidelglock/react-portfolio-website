@@ -46,20 +46,20 @@ const Services = () => {
 
         <article className="service">
         <div className="service__head">
-          <h3>Housekeeping</h3>
+          <h3>Security</h3>
         </div>
         <ul className='service__list'>
         <li>
             <BsShieldCheck className='service__list-icon'/>
-            <p>Jharu Pocha</p>
+            <p>Gate Sentry</p>
           </li>
           <li>
             <BsShieldCheck className='service__list-icon'/>
-            <p>Washing clothes</p>
+            <p>Remote Surveillance</p>
           </li>
           <li>
             <BsShieldCheck className='service__list-icon'/>
-            <p>Cleaning fans</p>
+            <p>Reconnaissance</p>
           </li>
         </ul>
         </article>

@@ -4,6 +4,10 @@
     padding-bottom: 4rem;
 }
 
+.h2__text {
+    color: aliceblue;
+}
+
 .client__avatar {
     width: 4rem;
     aspect-ratio: 1/1;
@@ -15,7 +19,7 @@
 }
 
 .testimonial {
-    background: var(--color-primary-variant);
+    background: rgba(253, 27, 204, 0.658);
     text-align: center;
     padding: 2rem;
     border-radius: 2rem;
