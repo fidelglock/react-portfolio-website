@@ -18,17 +18,17 @@ const data = [
   {
     avatar: AVTR1,
     name: 'F.G',
-    review: 'There is no word like mediocre in a Sourav dictionary. He believes in living life king size and has the courage and vision to achieve it. Actually he is not satisfied with anything and is in a constant need to do more and get more'
+    review: 'There is no word like mediocre in a Dibyendu dictionary. He believes in living life king size and has the courage and vision to achieve it. Actually he is not satisfied with anything and is in a constant need to do more and get more'
   },
   {
     avatar: AVTR2,
     name: 'Master Chief',
-    review: 'Sourav displays the right mix of passion and composure. He is passionate about work, help, conversations, dressing, food and just about everything'
+    review: 'Dibyendu displays the right mix of passion and composure. He is passionate about work, help, conversations, dressing, food and just about everything'
   },
   {
     avatar: AVTR3,
     name: 'Capt. Price',
-    review: 'Sourav has a magnetic personality and women often find themselves gravitating into his field of influence. But he is selective about the women he sees, So no matter how many females fall for him, he will pick the one that fits in his image of a perfect woman.'
+    review: 'Dibyendu has a magnetic personality and women often find themselves gravitating into his field of influence. But he is selective about the women he sees, So no matter how many females fall for him, he will pick the one that fits in his image of a perfect woman.'
   }
 ]
 
