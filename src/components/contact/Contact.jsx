@@ -32,20 +32,20 @@ const Contact = () => {
           <article className="contact__option">
             <MdAttachEmail className='contact__option-icon'/>
             <h4>Email</h4>
-            <h5>sourav@sourav.com</h5>
+            <h5>dib@dibyendu.com</h5>
             <a href="mailto:glockman1326@gmail.com" target="_blank">Send a message</a>
           </article>
           <article className="contact__option">
             <BsTelegram className='contact__option-icon'/>
             <h4>Telegram</h4>
-            <h5>Renegades</h5>
-            <a href="https://t.me/renegadesforever" target="_blank">Send a message</a>
+            <h5>@DIBYEND</h5>
+            <a href="https://t.me/dibyend" target="_blank">Send a message</a>
           </article>
           <article className="contact__option">
             <BsWhatsapp className='contact__option-icon'/>
             <h4>Whatsapp</h4>
             <h5>Inbox</h5>
-            <a href="https://api.whatsapp.com/send?phone=9851853694" target="_blank">Send a message</a>
+            <a href="https://api.whatsapp.com/send?phone=7478512482" target="_blank">Send a message</a>
           </article>
         </div>
 
