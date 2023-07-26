@@ -1,11 +1,13 @@
 import React from 'react'
 import './about.css'
-import ME from '../../assets/keanu.webp'
+// import ME from '../../assets/keanu.webp'
+import ME from '../../assets/afgh2.jpg'
 import {FaAward} from 'react-icons/fa'
 import {BsCalendarWeek} from 'react-icons/bs'
 import {BiLocationPlus} from 'react-icons/bi'
-import {SiBmcsoftware} from 'react-icons/si'
-import {GiPistolGun} from 'react-icons/gi'
+import {LiaUniversitySolid} from 'react-icons/lia'
+import {MdWorkOutline} from 'react-icons/md'
+import {PiStudentDuotone, PiStudentFill, PiCertificateDuotone}from 'react-icons/pi'
 
 const About = () => {
   return (
@@ -21,27 +23,42 @@ const About = () => {
         <div className="about__content">
           <div className="about__cards">
             <article className='about__card'>
-              <GiPistolGun className='about__icon'/>
-              <h5>Work</h5>
-              <small>Mercenary</small>
+              <MdWorkOutline className='about__icon'/>
+              <h5>Software Specialist</h5>
+              <small><i>LTIMindtree</i></small>
             </article>
 
             <article className='about__card'>
               <BsCalendarWeek className='about__icon'/>
               <h5>Birthday</h5>
-              <small>January 1</small>
+              <small>August 18</small>
             </article>
 
             <article className='about__card'>
               <BiLocationPlus className='about__icon'/>
-              <h5>Place</h5>
-              <small>Corner, Junkyard</small>
+              <h5>Jalpaiguri</h5>
+              <small>West Bengal, India</small>
+            </article>
+            <article className='about__card'>
+              <PiStudentDuotone className='about__icon'/>
+              <h5>MSc in ICT</h5>
+              <small>Technical University of Berlin, Germany</small>
+            </article>
+            <article className='about__card'>
+              <LiaUniversitySolid className='about__icon'/>
+              <h5>MSc in Technology</h5>
+              <small>Aalto University, Finland</small>
+            </article>
+            <article className='about__card'>
+              <PiCertificateDuotone className='about__icon'/>
+              <h5>BTech in IT</h5>
+              <small>JGEC, Jalpaiguri</small>
             </article>
           </div>
           <p>
-          I live in a dystopian world in which the society exists on the remnants of world that destroy ed itself while competing with each other to prove who had the power to annihilate the society and getaway with it.
+          I am proud to be an Indian citizen who has the ability to understand computers and use my expert thinking to propose business solutions with the help of various software development platforms, frameworks, scripting languages, tools and deployment technologies. When I am not working, I keep myself busy with Art&Craft, Photography and Travelling.
           </p>
-          <a href='#contact' className='btn btn-primary'>Let's Talk</a>
+          <a href='https://fgh-bike-photos.s3.eu-north-1.amazonaws.com/bikes/master-cert.pdf' className='btn btn-primary'>Degree Certificate</a>
         </div>
       </div>
     </section>

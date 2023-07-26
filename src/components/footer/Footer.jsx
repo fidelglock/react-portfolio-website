@@ -21,7 +21,7 @@ const Footer = () => {
         <a href="https://linkedin.com"><AiOutlineLinkedin/></a>
         <a href="https://twitter.com"><FiTwitter/></a>
         <a href="https://instagram.com"><ImInstagram/></a>
-        <a href="https://api.whatsapp.com/send?phone=9851853694"><BsWhatsapp/></a>
+        <a href="https://api.whatsapp.com/send?phone=9511918615"><BsWhatsapp/></a>
       </div>
       <div className="footer__copyright">
         <small>&copy; fgh web hosting. All rights reserved. </small>

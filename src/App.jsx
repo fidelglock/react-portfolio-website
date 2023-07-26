@@ -8,18 +8,26 @@ import Portfolio from './components/portfolio/Portfolio'
 import Testimonials from './components/testimonials/Testimonials'
 import Contact from './components/contact/Contact'
 import Footer from './components/footer/Footer'
+import Summary from './components/summary/Summary'
+import Skills from './components/skills/Skills'
+import Internship from './components/internship/Internship'
 
 export const App = () => {
   return (
     <>
     <Header/>
     <Nav/>
+    <Summary/>
+    <Skills/>
+    <Internship/>
     <About/>
-    <Experience/>
+    
+    {/* <Experience/> */}
     <Services/>
-    <Portfolio/>
+    
     <Testimonials/>
     <Contact/>
+    <Portfolio/>
     <Footer/>
     </>
   )

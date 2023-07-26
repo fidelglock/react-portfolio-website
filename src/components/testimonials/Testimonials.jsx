@@ -19,17 +19,17 @@ const data = [
   {
     avatar: AVTR2,
     name: 'Master Chief',
-    review: 'Rene displays the right mix of passion and composure. He is passionate about work, help, conversations, dressing, food and just about everything'
+    review: 'Anubhav displays the right mix of passion and composure. He is passionate about work, help, conversations, gaming, food and just about everything'
   },
   {
     avatar: AVTR3,
     name: 'Capt. Price',
-    review: 'Rene has a magnetic personality and women often find themselves gravitating into his field of influence. But he is selective about the women he sees, So no matter how many females fall for him, he will pick the one that fits in his image of a perfect woman.'
+    review: 'Anubhav does not wake up in the morning thinking this is his last day on Earth. But he thinks that is a luxury, not a curse.'
   },
   {
     avatar: AVTR1,
     name: 'F.G',
-    review: 'There is no word like mediocre in Renegade dictionary. He believes in living life king size and has the courage and vision to achieve it. Actually he is not satisfied with anything and is in a constant need to do more and get more'
+    review: 'There is no word like mediocre in his dictionary. Anubhav believes in living life king size and has the courage and vision to achieve it. Actually he is not satisfied with anything and is in a constant need to do more and get more.'
   }
 ]
 
