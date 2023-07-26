@@ -94,6 +94,7 @@ Procure-To-Pay cycle, supply chain, inventory management,
 generate/publish weekly/monthly/quarterly reports.</small>
         </div>
         <ul className='service__list'>
+        <h2>Role</h2>
         <li>
             <BsShieldCheck className='service__list-icon'/>
             <p>Providing continuous application support by recording Incidents
