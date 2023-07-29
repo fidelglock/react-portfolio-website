@@ -11,16 +11,11 @@ const Services = () => {
         <article className="service">
         <div className="service__head">
           <h1><i>LTIMindtree</i></h1>
-          <h3>EFX-CMV</h3>
-          <small>EFX Credit Model View is a Core Data Service provided to users who
-demand different credit scores according to different credit modelling
-applications developed in C++ and hosted via Spring REST api services
-that are consumed by data intensive Java microservices running in
-Google Dataflow while being automated with Jenkins pipelines that are
-triggered as per requirement.</small>
+          <h3>Software Engineering Specialist</h3>
+          <small>DataOps & Core Data Services</small>
         </div>
         <ul className='service__list'>
-          <h2>Role</h2>
+          {/* <h2>Role</h2> */}
           <li>
             <BsShieldCheck className='service__list-icon'/>
             <p>Analysis of resource utilization for optimizing usage of cloud
@@ -48,20 +43,11 @@ debugging Java and Groovy code.</p>
         <article className="service">
         <div className="service__head">
         <h1>Accenture</h1>
-          <h3>SKY-DE</h3>
-          <small>SKY-DE is the german venture of the british broadcasting and
-telecommunications conglomerate - SKY UK Ltd under which the users
-are provided various entitlements for subscribing to television channels
-and content delivery networks through controlled workflows originating
-from a front-end React web application deployed on Salesforce cloud
-servers and ending with a REST request to SKY UK main API server.
-The middle tier consisted of several microservices dedicated to
-business specific operations via Kafka event streaming including basic
-responsibilities like authorization, authentication, validation and
-verification.</small>
+          <h3>Application Development Senior Analyst</h3>
+          <small>Microservice development</small>
         </div>
         <ul className='service__list'>
-        <h2>Role</h2>
+        {/* <h2>Role</h2> */}
         <li>
             <BsShieldCheck className='service__list-icon'/>
             <p>Providing architectural consultation for Java microservices
@@ -84,17 +70,11 @@ improvement and maintaining documentation in Confluence.</p>
         <article className="service">
         <div className="service__head">
         <h1>Infosys</h1>
-          <h3>Johnson Controls L-1.5 Service Desk</h3>
-          <small>L-1.5 Service is formed after combining Level 1 and Level 2 Enterprise Shared Services in which Support Analysts are responsible for providing
-technical support as well as on-call support for users who report
-issues/defects within a Business Information System owned by the
-client and is being used for day-to-day business operations including
-logistics, accounts, payment, access provisioning, purchase order,
-Procure-To-Pay cycle, supply chain, inventory management,
-generate/publish weekly/monthly/quarterly reports.</small>
+          <h3>Senior Systems Engineer</h3>
+          <small>Application Support</small>
         </div>
         <ul className='service__list'>
-        <h2>Role</h2>
+        {/* <h2>Role</h2> */}
         <li>
             <BsShieldCheck className='service__list-icon'/>
             <p>Providing continuous application support by recording Incidents
