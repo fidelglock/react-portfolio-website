@@ -37,6 +37,10 @@ and maintaining documentation on a monthly basis.</p>
             <p>Work related to fixing bugs, resolving schema-mismatches,
 debugging Java and Groovy code.</p>
           </li>
+          <li>
+            <BsShieldCheck className='service__list-icon'/>
+            <p>Performing Dataflow operations on PCollection datasets for executing complex business logic using PTransformation in Apache Beam framework.</p>
+          </li>
         </ul>
         </article>
 
@@ -44,7 +48,7 @@ debugging Java and Groovy code.</p>
         <div className="service__head">
         <h1>Accenture</h1>
           <h3>Application Development Senior Analyst</h3>
-          <small>Microservice development</small>
+          <small>Microservice Development</small>
         </div>
         <ul className='service__list'>
         {/* <h2>Role</h2> */}
@@ -71,7 +75,7 @@ improvement and maintaining documentation in Confluence.</p>
         <div className="service__head">
         <h1>Infosys</h1>
           <h3>Senior Systems Engineer</h3>
-          <small>Application Support</small>
+          <small>Application Development & Support</small>
         </div>
         <ul className='service__list'>
         {/* <h2>Role</h2> */}
@@ -88,8 +92,8 @@ while upholding SLA, Generating custom report templates, creating approval workf
           </li>
           <li>
             <BsShieldCheck className='service__list-icon'/>
-            <p>Development of customized reports, integrating with E-biz
-server.</p>
+            <p>Development of pl/sql storedProcedures /functions /trigger operating on Oracle RDBMS, Oracle reports building with XML template for BI publisher, deployment on E-biz
+server as concurrent programs, ETL operations on legacy data.</p>
           </li>
         </ul>
         </article>
